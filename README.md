@@ -1,4 +1,4 @@
-<h2 align="center">PROFILE </h2>
+[![typograssy](https://typograssy.deno.dev/api?text=PROFILE)](https://github.com/kawarimidoll/typograssy)
 
 ## INFO
 <!-- TODO-IST:START -->
