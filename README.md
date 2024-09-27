@@ -10,3 +10,6 @@
 ## Projects
 ### [Scene Hunter](https://protopedia.net/prototype/private/76e77efd-35c5-43b3-921b-279979c9eaf1)
 **BACKEND - PYTHON**
+
+### [Chronotes](https://chronotes.yashikota.com/)
+**BACKEND - GO LANG**
